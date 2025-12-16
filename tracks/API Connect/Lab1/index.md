@@ -115,11 +115,11 @@ Before we can use API Connect we must publish an API to expose. We will deploy a
 
 3\. Select API Manager User Registry.
 
-![API Connect login page with 'API Manager User Registry' option highlighted](./images/118.png)
+![API Connect login page with 'API Manager User Registry' option highlighted](../images/7.png)
 
 4\. Use the user name and password that you have created while creating the provider organization. Refer FAQs section 5)k).
 
-![API Manager login form with username and password fields for provider organization access](./images/119.png)
+![API Manager login form with username and password fields for provider organization access](../images/8.png)
 
 5\. When you log in for the first time, you may see a **Get started** window.  Feel free to review the contents and close the window.
 
