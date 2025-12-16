@@ -113,15 +113,13 @@ Before we can use API Connect we must publish an API to expose. We will deploy a
 
 ![alt text][pic6]
 
-3\. Click **APIManager User Registry**. *If you are not following this guide as part of a TechJam log in with your standard credentials and jump to 6.*
+3\. Select API Manager User Registry.
 
-![alt text][pic7]
+![API Connect login page with 'API Manager User Registry' option highlighted](./images/118.png)
 
-4\. When prompted, log in with the username and password provided to you for this lab. Click **Log in**. The username in the screenshots of this lab is student0.
+4\. Use the user name and password that you have created while creating the provider organization. Refer FAQs section 5)k).
 
-**Note:** If you get a warning message that your connection is not private, follow the instructions in the previous section.
-
-![alt text][pic8]
+![API Manager login form with username and password fields for provider organization access](./images/119.png)
 
 5\. When you log in for the first time, you may see a **Get started** window.  Feel free to review the contents and close the window.
 
