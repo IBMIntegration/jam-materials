@@ -18,9 +18,9 @@ In this lab, you will explore the following key capabilities:
 
 ## 2. Prerequisites
 
-- Reserve the lab environment. If you have not reserved the lab environment, then click [here](https://techzone.ibm.com/collection/jam-in-a-box-for-integration-automation-cp4i/environments)
+- Reserve the lab environment. If you have not reserved the lab environment, then click [here](https://github.com/IBMIntegration/jam-in-a-box-2/blob/main/README.md)
 
-- Create Provider Organization and Configure Developer portal. Go through [FAQs](https://ibmintegration.github.io/jam-in-a-box/faq)
+- Create a portal using the link provided. [Developer Portal](https://github.com/IBMIntegration/jam-materials/blob/main/tracks/API%20Connect/Portal%20Deployment.md#creating-a-catalog) 
 
 - Go through the presentation to get the knowledge about API connect capabilities. Click [here](https://ibm.box.com/s/zdvlrkbmobejvkd5hzhiqf7jur4fc6sj)
 
@@ -50,7 +50,7 @@ A Developer Portal for the Sandbox catalog has already been configured in this e
 
 ![API Manager interface showing 'Manage catalogs' option highlighted in the navigation menu](../images/PTL9.png)
 
-6\. Click on **Sandbox**.
+6\. Click on **Click into your new catalog**.
 
 ![Catalog management interface showing Sandbox catalog tile highlighted for selection](../images/PTL10.png)
 
